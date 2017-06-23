@@ -1,0 +1,265 @@
+/* Responsive  CSS Document */
+
+
+@media only screen and (min-width: 1002px) and (max-width: 1024px) {
+.menu > ul > li a{ padding:8px 10px!important;}
+.advantage_sec li{ min-height:470px;}
+ul.social2 li{ font-size:16px;}
+.swMain ul.anchor li{ margin-right:20px!important;}
+.inp2,.sel2{ width:100%;}
+
+.banner_sec .left2 h2{ font-size:36px;}
+.landing_form img{ width:100%;}
+.landing_form{ width:32%;}
+.norton{ width:100%; }
+.norton img{ width:135px; }
+}
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1001px) {
+
+.row2 p img{ margin-right:0px;}
+.news_sec .bx-controls-direction{ display:none!important;}
+.banner_sec .left{ padding-top:20px;}
+.form_sec ul li{ width:30%; margin-bottom:20px;}
+.menu > ul > li > ul{ border-radius: 0px!important;}
+.tabs-menu li a{ font-size:15px;}
+.days{ width:30%;}
+
+.ragistration_sec .left,.ragistration_sec .right{ width:100%;}
+ul.social2 li{ font-size:17px;}
+.swMain ul.anchor li{ margin-right:30px!important;}
+.inp2,.sel2{ width:100%;}
+
+
+.landing_form{ position:static; width:auto; margin-top:0px; padding-top:10px; box-shadow:0 0 0 0;}
+.banner_sec .left2 p{ font-size:20px;}
+.main2{ width:100%;}
+.banner_sec .left2 h2{ font-size:36px;}
+.landing_form img{ width:100%;}
+.banner_sec .right2 h2{ margin:0px; margin-bottom:20px;}
+.why_sec ul li{ min-height:173px;}
+
+
+.news_box{ min-height:450px;}
+.business_sec .row1{ min-height:215px;}
+
+
+.menu-mobile{ padding:10px 11px 27px 0!important;}
+
+.ragistration_sec .right .total{ float:inherit;}
+
+.menu > ul > li > ul > li.res_version{ width:100%!important;}
+.menu > ul > li > ul > li.res_version2{ width:100%!important;}
+.package_sec p span{ margin-bottom:15px;}
+.package_sec{ padding:20px;}
+.norton{ width:100%; }
+.norton img{ width:95px; }
+
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+.header_right{ padding-right:20px; float:none; text-align:center; padding:0px;}
+.welcome_sec .left,.welcome_sec .right{ width:100%; margin-bottom:20px; padding:0px 10px;}
+.service_sec ul li{ width:100%; margin:30px 0 0 0; padding-bottom:40px;}
+.container{ padding:0px 10px;}
+.service_sec ul li span{ left:38%;}
+.news_box{ margin:0px; width:100%; margin-top:30px;}
+.news_box li{ margin:0px!important;}
+.news_sec .bx-controls-direction{ display:none!important;}
+.business_sec .row1{ width:100%; border:0px; margin:10px 0 0 0; border-bottom:1px solid #999999;}
+.row2{ width:100%; margin-bottom:20px;}
+.copy_sec .left,.copy_sec .right{ width:100%; text-align:center;}
+.banner_sec .left h2{ font-size:22px;}
+.banner_sec .left p{ font-size:13px;}
+.banner_sec .left span.price{ font-size:25px;}
+.banner_sec .left{ padding-top:20px; width:100%;}
+.form_sec ul li{ width:100%; margin-bottom:10px; margin-left:0px;}
+.menu > ul > li > ul{ border-radius: 0px!important;}
+.menu > ul > li > ul.res_version_ul{ left: 0 !important;
+    width: 100% !important; border-radius: 0px!important;}
+.ragister_sec .left,.ragister_sec .right{ width:100%;}
+.inclusions ul li{ width:100%; margin:10px 0 0 0;}
+.tabs-menu li a{ padding:10px 5px; font-size:13px;}
+.advantage_sec li{ width:100%; min-height:inherit;}
+.days{ width:100%; margin:30px 0 0 0;}
+.days h2 span{ font-size:46px; line-height:46px;}
+
+
+.ragistration_sec .left,.ragistration_sec .right{ width:100%;}
+ul.social2 li{ font-size:17px;}
+.swMain ul.anchor li{ margin-right:50px!important; margin-top:20px!important;}
+ul.social2 li{ margin-top:20px;}
+.new_user span{ margin-top:0px; float:none;}
+
+.partner_sec .left,.partner_sec .right{ width:100%;}
+.inp2,.sel2{ width:100%;}
+
+
+.inner_banner h2{ font-size:40px;}
+.inner_banner h2 span{ font-size:30px;}
+.cont{ width:100%; margin:0px 0 20px 0;}
+
+
+.landing_form{ position:static; width:auto; margin-top:20px; width:100%; padding-top:20px;}
+.banner_sec .left2 p{ font-size:17px;}
+.main2{ width:100%;}
+.banner_sec .left2{ width:100%; padding:0px; display:none;}
+.banner_sec .right{ width:100%; padding:0px; display:none;}
+.header3{ height:auto; padding-bottom:20px;}
+.header3 .banner_sec{ overflow:inherit;}
+.banner_sec .right2{ width:100%; margin:0px; padding:0px;}
+.landing_form img{ width:100%;}
+.banner_sec .right2 h2{ margin:0px; margin-bottom:20px;}
+
+.disc{ width:100%; height:auto;}
+
+.why_sec ul li{ width:100%; min-height:inherit; margin:0px; margin-top:30px;}
+.faq_sec .left{ width:100%;}
+
+.reveal-modal{ left:72%!important;}
+
+.menu-mobile{ position:absolute; left:20px; top:25px; line-height:12px;}
+.logo{ text-align:center; float:none;}
+.incorporate{  display:none;}
+
+ul.social{ float:none; width:100%; text-align:center;}
+.banner_sec .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto{ bottom:-40px!important;}
+.header2{ padding-bottom:0px;}
+.banner_sec{ overflow:inherit; }
+.partner_sec{ display:none;}
+
+
+.ragistration_sec .right .total{ float:inherit;}
+/*.information{ width:100%;}
+*/.stock p{ float:inherit; width:100%;}
+.banner_sec .left2 ul{ display:none;}
+
+.header_res{ margin:0px; background:url(../images/bg2.jpg) repeat-x!important; }
+.banner_sec .left2 h2{ font-size:22px; color:#1370ee;}
+.banner_sec .left2 p{ color:#000000; font-size:15px;}
+.landing_prise h4 span{ color:#000000; font-size:15px;}
+.landing_prise h4{ font-size:30px; color:#ff4b33;}
+
+.menu > ul > li > ul > li.res_version{ width:100%!important;}
+.menu > ul > li > ul > li.res_version2{ width:100%!important;}
+.dashbord_sec .left,.dashbord_sec .right{ width:100%;}
+.selectorder_sec .left2,.selectorder_sec .right2{ width:100%; margin-top:20px;}
+.header .services{ float:inherit; text-align:center;}
+.package_sec p span{ margin-bottom:15px;}
+.package_sec{ padding:20px;}
+
+
+.news_sec .news_box img {
+    height: auto !important;
+}
+
+
+
+
+#cssmenu{ display:none;}
+
+.test_cont{ font-size:17px; line-height:normal; padding:15px;}
+.testmon_sec .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager{ display:none; bottom:-40px;}
+.testmon_sec .bx-controls-direction{ display:none;}
+.testmain .left,.testmain .right{ width:100%;}
+.testimonial-section h4{ padding:10px;}
+.testimonial-section h4{ font-size:20px;}
+
+
+.whatdo_sec{ margin-top:0px; padding-top:30px;}
+
+.disc{ width:100%;}
+
+.compare_sec{ overflow:scroll;}
+
+
+.bx-wrapper{ display:none;}
+.norton{ width:100%; }
+.norton img{ width:85px; }
+}
+
+
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+.logo{ width:100%; text-align:center; float:none;}
+.header .services{ float:none; margin:0 auto; width:100%; text-align:center;}
+.header_right{ float:none; width:100%; padding:0px; text-align:center;}
+ul.social{ float:none; padding:0px; margin-top:20px;}
+.incorporate{ float:none; margin:10px auto 0 auto;}
+.incorporate2{ right:0px; left:0px;}
+.welcome_sec .left h2{ font-size:50px;}
+.service_sec ul li span{ left:30%;}
+.banner_sec .left{ padding-top:0px;}
+.tabs-menu li{ width:100%; padding:0px 20px;}
+
+.inp2{ width:100%;}
+.swMain .buttonFinish{ width:60px!important;}
+.swMain div.actionBar{ width:auto!important;}
+
+.development_sec span{ display:none;}
+.development_sec ul li{ width:100%; margin:20px 0 0 0;}
+
+
+.reveal-modal{ left:97%!important; width:300px!important;}
+.landing_prise h4 span{ font-size:15px;}
+.landing_prise h4{ font-size:35px;}
+
+.menu-mobile{ left:12px;}
+
+
+
+.swMain ul.anchor li a{ width:50px!important; height:50px!important; font-size:15px!important;}
+.swMain ul.anchor li a .stepNumber{  font-size: 20px!important; line-height: 30px!important;}
+.names{ display:none!important;}   
+.swMain ul.anchor li{ margin:0px 15px 10px 15px!important;}
+.norton{ width:100%; }
+.norton img{ width:75px; }
+}
+
+
+
+
+
+/*SLIDER CSS NEW HERE*/
+
+
+@media only screen and (max-width: 768px) {
+.newsli{ width:370px!important;}
+
+}
+
+
+@media only screen and (max-width: 640px) {
+.newsli{ width:300px!important;}
+
+}
+
+
+
+
+@media only screen and (max-width: 480px) {
+.newsli{ width:470px!important; margin:0px!important;}
+.builder{ width:200px!important;}
+
+}
+
+
+@media only screen and (max-width: 360px) {
+.newsli{ width:340px!important; margin:0px!important;}
+.builder{ width:250px!important; margin-left:40px!important;}
+}
+
+
+@media only screen and (max-width: 320px) {
+.newsli{ width:300px!important; margin:0px!important;}
+.builder{ width:250px!important; margin-left:20px!important;}
+}
